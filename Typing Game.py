@@ -10,7 +10,6 @@ import math
 ####################################
 #Typing is good for you, you know? #
 ####################################
-
 print('Warhawk947 proudly presents...')
 # info and credits, please read
 """Hello everyone!!
