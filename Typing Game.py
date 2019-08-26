@@ -880,7 +880,6 @@ while True:
             elif int(x[2]) != int(day):
                 user_passed = True
 
-
         # print(x)
         # print(day)
 
@@ -927,4 +926,3 @@ while True:
 
     else:
         print('Invalid Option')
-        
