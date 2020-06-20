@@ -411,7 +411,7 @@ correct_counter_zero = False
 
 def work(_word_list):
     global correct_counter_zero
-    print('You have chosen to c'
+    print('You have chosen to '
           'work')
 
     print('Would you like instructions on how to play this gamemode?')
